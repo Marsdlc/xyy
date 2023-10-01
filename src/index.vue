@@ -26,7 +26,7 @@
         <el-row>
           <el-col :span="16">
             <video :width="videoWidth" :height="videoHeight" controls>
-              <source src="/test.mp4" type="video/mp4">
+              <source src="/src/video/test.mp4" type="video/mp4">
             </video>
           </el-col>
 
@@ -46,7 +46,7 @@
         <el-row>
           <el-col :span="16">
             <video :width="videoWidth" :height="videoHeight" controls>
-              <source src="/test.mp4" type="video/mp4">
+              <source src="/src/video/test.mp4" type="video/mp4">
             </video>
           </el-col>
 
